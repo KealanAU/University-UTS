@@ -1,0 +1,13 @@
+all
+but
+the
+last
+line
+should
+be
+in
+the
+output
+file
+when
+done
